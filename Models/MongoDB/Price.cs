@@ -1,7 +1,7 @@
 ﻿using MongoDB.Bson.Serialization.Attributes;
 using MongoDB.Bson;
 
-namespace StockPriceMicroservice.Models
+namespace StockPriceMicroservice.Models.MongoDB
 {
     public class Price
     {
